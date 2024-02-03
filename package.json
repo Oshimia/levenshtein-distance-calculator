@@ -1,6 +1,6 @@
 {
-  "name": "firebot-custom-script-starter",
-  "scriptOutputName": "starterScript",
+  "name": "babies-first-script",
+  "scriptOutputName": "levenshteinDistance",
   "version": "1.0.0",
   "description": "A starter Firebot custom script",
   "main": "",
