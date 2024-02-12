@@ -1,8 +1,8 @@
 {
   "name": "babies-first-script",
   "scriptOutputName": "levenshteinDistance",
-  "version": "1.0.0",
-  "description": "A starter Firebot custom script",
+  "version": "3.0.0",
+  "description": "A custom script to initialize a variable that calculates the Levenshtein distance between two strings, with a normalization process to make it case insensitive and remove special characters. Can accept and choose between multiple answers that are separated by the '/' character",
   "main": "",
   "scripts": {
     "build": "webpack",
@@ -10,7 +10,7 @@
     "copy": "node ./scripts/copy-build.js",
     "test": "jest"
   },
-  "author": "ebiggz",
+  "author": "Oshimia",
   "license": "GNU3",
   "devDependencies": {
     "@crowbartools/firebot-custom-scripts-types": "^5.60.1",
